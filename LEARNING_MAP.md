@@ -11,7 +11,7 @@ Quy ước:
 - [ ] Makefile, CMake
 - [ ] GDB debugging
 - [x] Process, PID, PPID, sleep, kill
-- [ ] fork, exec, wait
+- [x] fork, exec, wait
 - [ ] File descriptor, open, read, write
 - [ ] Signal handling
 - [ ] /proc filesystem
