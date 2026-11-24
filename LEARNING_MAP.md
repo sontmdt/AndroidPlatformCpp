@@ -8,11 +8,11 @@ Quy ước:
 - [x] Linux terminal, filesystem, permissions
 - [ ] Git, GitHub
 - [x] GCC, G++, compilation, linking
-- [ ] Makefile, CMake
-- [ ] GDB debugging
+- [x] Makefile, CMake
+- [x] GDB debugging
 - [x] Process, PID, PPID, sleep, kill
 - [x] fork, exec, wait
-- [ ] File descriptor, open, read, write
+- [x] File descriptor, open, read, write
 - [ ] Signal handling
 - [ ] /proc filesystem
 

@@ -1,0 +1,3 @@
+/home/sontmdt/AndroidPlatformCpp/01_Linux_Fundamentals/Linking/build/CMakeFiles/app.dir
+/home/sontmdt/AndroidPlatformCpp/01_Linux_Fundamentals/Linking/build/CMakeFiles/edit_cache.dir
+/home/sontmdt/AndroidPlatformCpp/01_Linux_Fundamentals/Linking/build/CMakeFiles/rebuild_cache.dir
