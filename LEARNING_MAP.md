@@ -17,16 +17,16 @@ Quy ước:
 - [x] /proc filesystem
 
 ## Lesson 02 — C++ Core & Modern C++
-- [ ] Pointer, reference, const, constexpr
-- [ ] Stack, heap, memory layout
-- [ ] Class, constructor, destructor
-- [ ] Inheritance, polymorphism, virtual
-- [ ] RAII, smart pointers
-- [ ] Copy/move semantics, Rule of Five
-- [ ] STL: vector, map, unordered_map
-- [ ] Lambda, std::function, callback
-- [ ] Template
-- [ ] SOLID principles
+- [x] Pointer, reference, const, constexpr
+- [x] Stack, heap, memory layout
+- [x] Class, constructor, destructor
+- [x] Inheritance, polymorphism, virtual
+- [x] RAII, smart pointers
+- [x] Copy/move semantics, Rule of Five
+- [x] STL: vector, map, unordered_map
+- [x] Lambda, std::function, callback
+- [x] Template
+- [x] SOLID principles
 
 ## Lesson 03 — Linux Multithreading
 - [ ] std::thread, pthread
