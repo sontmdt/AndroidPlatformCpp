@@ -7,7 +7,7 @@ Quy ước:
 ## Lesson 01 — Linux Fundamentals
 - [x] Linux terminal, filesystem, permissions
 - [ ] Git, GitHub
-- [ ] GCC, G++, compilation, linking
+- [x] GCC, G++, compilation, linking
 - [ ] Makefile, CMake
 - [ ] GDB debugging
 - [x] Process, PID, PPID, sleep, kill
