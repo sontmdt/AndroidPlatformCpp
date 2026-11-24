@@ -5,7 +5,7 @@ Quy ước:
 - [x] Đã học
 
 ## Lesson 01 — Linux Fundamentals
-- [ ] Linux terminal, filesystem, permissions
+- [x] Linux terminal, filesystem, permissions
 - [ ] Git, GitHub
 - [ ] GCC, G++, compilation, linking
 - [ ] Makefile, CMake
