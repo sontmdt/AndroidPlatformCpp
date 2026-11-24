@@ -6,15 +6,15 @@ Quy ước:
 
 ## Lesson 01 — Linux Fundamentals
 - [x] Linux terminal, filesystem, permissions
-- [ ] Git, GitHub
+- [x] Git, GitHub
 - [x] GCC, G++, compilation, linking
 - [x] Makefile, CMake
 - [x] GDB debugging
 - [x] Process, PID, PPID, sleep, kill
 - [x] fork, exec, wait
 - [x] File descriptor, open, read, write
-- [ ] Signal handling
-- [ ] /proc filesystem
+- [x] Signal handling
+- [x] /proc filesystem
 
 ## Lesson 02 — C++ Core & Modern C++
 - [ ] Pointer, reference, const, constexpr
