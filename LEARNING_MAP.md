@@ -29,14 +29,14 @@ Quy ước:
 - [x] SOLID principles
 
 ## Lesson 03 — Linux Multithreading
-- [ ] std::thread, pthread
-- [ ] Race condition
-- [ ] Mutex, lock_guard, unique_lock
-- [ ] condition_variable
-- [ ] std::atomic
-- [ ] Deadlock
-- [ ] Thread pool
-- [ ] Producer–Consumer
+- [x] std::thread, pthread
+- [x] Race condition
+- [x] Mutex, lock_guard, unique_lock
+- [x] condition_variable
+- [x] std::atomic
+- [x] Deadlock
+- [x] Thread pool
+- [x] Producer–Consumer
 
 ## Lesson 04 — Linux IPC
 - [ ] Pipe, FIFO
